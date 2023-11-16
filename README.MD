@@ -3,7 +3,7 @@ This repository contains an implementation of Neural Style Transfer (NST), a dee
 
 
 
-![Sample Image](https://drive.google.com/file/d/1OlNffFGqHNn1lwkvIKA1eS-HcnNczQK1/view?usp=drive_link)
+![Sample Image](https://drive.google.com/file/d/1OlNffFGqHNn1lwkvIKA1eS-HcnNczQK1/view?usp=sharing)
 ![Sample Image](https://github.com/RAJGUPTA28/NEURAL-STYLE-TRANSFER/blob/main/Screenshot%202023-11-15%20at%2012.35.26%20PM.png)
 ![Sample Image](https://github.com/RAJGUPTA28/NEURAL-STYLE-TRANSFER/blob/main/Screenshot%202023-11-15%20at%2012.35.43%20PM.png)
 
