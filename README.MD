@@ -3,7 +3,7 @@ This repository contains an implementation of Neural Style Transfer (NST), a dee
 
 
 
-![Sample Image](https://drive.google.com/file/d/1OlNffFGqHNn1lwkvIKA1eS-HcnNczQK1/view?usp=sharing)
+
 ![Sample Image](https://github.com/RAJGUPTA28/NEURAL-STYLE-TRANSFER/blob/main/Screenshot%202023-11-15%20at%2012.35.26%20PM.png)
 ![Sample Image](https://github.com/RAJGUPTA28/NEURAL-STYLE-TRANSFER/blob/main/Screenshot%202023-11-15%20at%2012.35.43%20PM.png)
 
@@ -20,3 +20,7 @@ The core of this implementation involves:
 - Style Image: The image whose style we want to apply.
 - Neural Network Architecture: Utilizes pre-trained models like VGG-19, etc.
 - Loss Functions: Content loss and style loss functions are used to optimize the generated image.
+
+
+
+![Sample Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticsindiamag.com%2Fhands-on-guide-to-neural-style-transfer-using-tensorflow-hub-module%2F&psig=AOvVaw3lCvTiZCqgOBRbq0g9toan&ust=1700282929226000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiUoNKdyoIDFQAAAAAdAAAAABAJ)
