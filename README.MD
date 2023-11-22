@@ -23,4 +23,4 @@ The core of this implementation involves:
 
 
 
-![Sample Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticsindiamag.com%2Fhands-on-guide-to-neural-style-transfer-using-tensorflow-hub-module%2F&psig=AOvVaw3lCvTiZCqgOBRbq0g9toan&ust=1700282929226000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiUoNKdyoIDFQAAAAAdAAAAABAJ)
+
