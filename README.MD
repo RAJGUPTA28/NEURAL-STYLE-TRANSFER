@@ -11,9 +11,6 @@ This repository contains an implementation of Neural Style Transfer (NST), a dee
 ------ 
 
 
-Neural Style Transfer is an intriguing technique that leverages deep neural networks to apply artistic styles from one image to another while preserving the content of the latter. This repository provides an easy-to-use implementation allowing you to experiment with different styles and content images.
-
-
 
 
 # How it Works
